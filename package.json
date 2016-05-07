@@ -1,7 +1,7 @@
 {
-  "name": "JSlither",
+  "name": "Clither",
   "version": "1.0.0",
-  "description": "An open source nodejs server implementation for slither.io",
+  "description": "An open source nodejs server implementation for slither.io, A fork of circa94's JSlither",
   "main": "server.js",
   "directories": {
     "test": "tests"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/circa94/JSlither.git"
+    "url": "https://github.com/ClitherProject/Clither.git"
   },
   "keywords": [
     "slither"
@@ -20,9 +20,9 @@
   "author": "circa94",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/circa94/JSlither/issues"
+    "url": "https://github.com/ClitherProject/Clither/issues"
   },
-  "homepage": "http://www.theHardCoders.de",
+  "homepage": "https://github.com/ClitherProject/Clither",
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "ws": "^1.1.0"
